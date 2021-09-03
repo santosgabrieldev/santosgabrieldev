@@ -5,7 +5,7 @@
 Possuo conhecimento em: Linguagem de programação HTML, CSS , JavaScript.
 
 🌱 Estudando Python e Java. <br>
-📫 Email: gsantos58145@gmail.com
+📫 Email: gsantos58145@gmail.com <br>
 🔭 Procurando estágio!!
  <div>
   <a href="https://github.com/santosgabrieldev">
