@@ -19,7 +19,9 @@ Possuo conhecimento em: Linguagem de programação HTML, CSS , JavaScript.
   <img align="center" alt="Ga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ga-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   </div>
+ 
   ##  
+ 
  <div> 
 
   <a href="https://www.instagram.com/gabrielsantos.jpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
