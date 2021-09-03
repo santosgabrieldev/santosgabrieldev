@@ -4,5 +4,5 @@
 
 Possuo conhecimento em: Linguagem de programação HTML, CSS , JavaScript.
 
-🌱 Estudando Python e Java <br>
+🌱 Estudando Python e Java. <br>
 📫 Email: gsantos58145@gmail.com
