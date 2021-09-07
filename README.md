@@ -18,8 +18,7 @@ Possuo conhecimento em: Linguagem de programação HTML, CSS , JavaScript.
   <img align="center" alt="Ga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ga-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
-  <img align="center" alt="Ga-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/C.svg">
-  <img align="center" alt="Ga-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/C++.svg">
+  <img align="center" alt="Ga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/C/C-original.svg">
   </div>
  
   ##  
