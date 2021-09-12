@@ -22,7 +22,9 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
   <img align="center" alt="Ga-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
   </div>
-  <<img align="center" alt="Ga-Js" height="30" width="40" src="https://media.giphy.com/media/1095D785BuMVWg/giphy.gif">
+ 
+  <img align="right" alt="Coffee" height="100" width="100" src="https://media.giphy.com/media/1095D785BuMVWg/giphy.gif">
+ 
   ##  
  
  <div> 
