@@ -22,7 +22,8 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
   <img align="center" alt="Ga-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
   </div>
- https://media.giphy.com/media/xUOrwpPFzqDh48XEek/giphy.gif
+ ![image](https://user-images.githubusercontent.com/88512482/133001309-79f42f61-f4ea-4088-a0f6-5f355c15464e.png)
+
   ##  
  
  <div> 
