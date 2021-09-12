@@ -13,7 +13,8 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosgabrieldev&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
-  <img align="right" alt="Coffee" height="160" width="160" src="http://craigpickard.net/work#/100-days/">
+  <img align="right" alt="Coffee" height="160" width="160" src="![image](https://user-images.githubusercontent.com/88512482/133001546-dd2e8fc2-83f0-4233-a474-9e9436f5e5ab.png)
+">
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Ga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
