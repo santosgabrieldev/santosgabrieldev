@@ -12,6 +12,7 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=santosgabrieldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosgabrieldev&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ <img align="right" alt="Coffee" height="150" width="150" src="https://media.giphy.com/media/1095D785BuMVWg/giphy.gif">
 <div style="display: inline_block"><br>
   <img align="center" alt="Ga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -21,9 +22,7 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
   <img align="center" alt="Ga-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ga-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
-  </div>
- 
-  <img align="right" alt="Coffee" height="150" width="150" src="https://media.giphy.com/media/1095D785BuMVWg/giphy.gif">
+ </div>
  
   ##  
  
