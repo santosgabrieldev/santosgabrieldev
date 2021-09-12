@@ -23,7 +23,7 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
   
   </div>
  
-  <img align="right" alt="Coffee" height="100" width="100" src="https://media.giphy.com/media/1095D785BuMVWg/giphy.gif">
+  <img align="right" alt="Coffee" height="150" width="150" src="https://media.giphy.com/media/1095D785BuMVWg/giphy.gif">
  
   ##  
  
