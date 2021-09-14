@@ -10,7 +10,7 @@ Possuo conhecimento em: HTML, CSS e JavaScript.
  <div>
   <a href="https://github.com/santosgabrieldev">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=santosgabrieldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosgabrieldev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosgabrieldev&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
   <img align="right" alt="Coffee" height="160" width="160" src="https://media.giphy.com/media/3ohze2v9DClNU2Cdl6/giphy.gif">
