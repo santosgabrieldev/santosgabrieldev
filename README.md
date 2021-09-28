@@ -4,7 +4,7 @@
 
 • 🌱 Estudando Python, Java e C/C++. <br>
 • 📫 Email: gsantos58145@gmail.com <br>
-• 🔭 Procurando estágio!!
+• 🔭 Procurando estágio!
  <div>
   <a href="https://github.com/santosgabrieldev">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=santosgabrieldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
