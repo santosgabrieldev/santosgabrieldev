@@ -2,7 +2,7 @@
 ### Seja muito bem vindo ao meu perfil!
 #### Sou estudante de Sistemas de Informação do 1° período pela Universidade de Uberaba - UNIUBE
 
-• 🌱 Estudando Python e JavScript. <br>
+• 🌱 Estudando Python e JavaScript. <br>
 • 📫 Email: gsantos58145@gmail.com <br>
 • 🔭 Procurando estágio!
  <div>
@@ -18,7 +18,6 @@
   <img align="center" alt="Ga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ga-Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg">
   <img align="center" alt="Ga-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Ga-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   
