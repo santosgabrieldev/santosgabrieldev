@@ -1,5 +1,5 @@
 # Olá, tudo bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-### Seja muito bem vindo ao meu perfil!
+### Seja muito bem vindo ao meu perfil!!
 #### Sou estudante de Sistemas de Informação do 1° período pela Universidade de Uberaba - UNIUBE
 
 • 🌱 Estudando Python e JavaScript. <br>
