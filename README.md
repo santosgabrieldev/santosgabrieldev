@@ -2,7 +2,7 @@
 ### Seja muito bem vindo ao meu perfil!
 #### Sou estudante de Sistemas de Informação do 1° período pela Universidade de Uberaba - UNIUBE
 
-• 🌱 Estudando Python e C/C++. <br>
+• 🌱 Estudando Python e JavScript. <br>
 • 📫 Email: gsantos58145@gmail.com <br>
 • 🔭 Procurando estágio!
  <div>
