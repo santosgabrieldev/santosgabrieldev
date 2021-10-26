@@ -30,7 +30,7 @@
   <a href="https://www.instagram.com/gabrielsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gsantos58145@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-santos-6ab7b51a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://gabrielsantosalves.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-My Website-%23E4405F?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
+  <a href="https://gabrielsantoshome.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-My Website-%23E4405F?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
     <a href="https://api.whatsapp.com/send?phone=5534999915529&text=Olá! vim pelo GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
