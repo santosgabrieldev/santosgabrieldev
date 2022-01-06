@@ -1,10 +1,10 @@
 # Olá, tudo bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ### Seja muito bem vindo ao meu perfil!
-#### Sou estudante de Sistemas de Informação do 1° período pela Universidade de Uberaba - UNIUBE
+#### Sou estudante de Sistemas de Informação do 2° período pela Universidade de Uberaba - UNIUBE
 
 • 🌱 Estudando Python e JavaScript. <br>
 • 📫 Email: gsantos58145@gmail.com <br>
-• 🔭 Procurando estágio!
+
  <div>
   <a href="https://github.com/santosgabrieldev">
   <img height="177em" src="https://github-readme-stats.vercel.app/api?username=santosgabrieldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
