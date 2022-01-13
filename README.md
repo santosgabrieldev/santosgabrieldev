@@ -1,34 +1,81 @@
-# Olá, tudo bem? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-### Seja muito bem vindo ao meu perfil!
-#### Sou estudante de Sistemas de Informação do 2° período pela Universidade de Uberaba - UNIUBE
 
-• 🌱 Estudando Python e JavaScript. <br>
-• 📫 Email: gsantos58145@gmail.com <br>
+ # <p align="center"> console.log( "Hello there!" ); <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"></p>
 
- <div>
-  <a href="https://github.com/santosgabrieldev">
-  <img height="177em" src="https://github-readme-stats.vercel.app/api?username=santosgabrieldev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="177em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosgabrieldev&layout=compact&langs_count=7&theme=dark"/>
-</div>
+<p align="center"><img width=50% src="https://media2.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif?cid=ecf05e47qxppgplgsjmq0kxhk26viej2twmn9stiw4sf7kse&rid=giphy.gif&ct=g"></p>
+
+
+<p align="center"><samp>Hi, my name is <a href="https://github.com/harry-fruit" target="_blank">Gabriel S.</a>. I'm an analysis and systems development college student. In my repositories you'll find projects created using:</samp></p>
+
+## Tech Stack :computer:
+
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="500px">
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+<p><b>JavaScript<b></p>
+</td>
+
+<td align="center" width="500px">
+<img height=75px src="https://img.icons8.com/color/2x/nodejs.png"> 
+<p><b>NodeJS<b></p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img height=55px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+<p><b>C<b></p>
+</td>
  
-  <img align="right" alt="Coffee" height="160" width="160" src="https://media.giphy.com/media/3ohze2v9DClNU2Cdl6/giphy.gif">
+<td align="center">
+<img height="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<p><b>C++<b></p>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img height="55px" src="https://img.icons8.com/color/2x/html-5.png">
+<p><b>HTML5<b></p>
+</td>
+
+<td align="center" >
+<img height=55px src="https://img.icons8.com/color/64/000000/css3.png">
+<p><b>CSS3</b></p>
+</td>
  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ga-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ga-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Ga-Npm" height="30" width="40" src="https://camo.githubusercontent.com/694a7324f2dbe1b0243927ecf0af0a48202c144c37c93e841c332b5a8847c29f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6e706d2e706e67">
-  <img align="center" alt="Ga-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ga-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ga-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ga-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Ga-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  
- </div>
+<tr>
+<td align="center">
+<img height=55px src="https://img.icons8.com/color/2x/python.png">
+<p><b>Python</b></p>
+</td>
  
-  ##  
+<td align="center" width="500px">
+<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
+<p><b>Java</b></p>
+</td>
  
+<tr>
+<td align="center"> 
+<img height=55px src="https://img.icons8.com/color/48/000000/git.png"> 
+<p><b>Git<b></p>
+</td>
+ 
+<td align="center">
+<img height=65px src="https://img.icons8.com/color/96/000000/npm.png"> 
+<p><b>NPM</b></p>
+</td>
+
+</tbody>
+</table>
+
+____
+
+<h3 align="left">Reach me on 📫</h3>
  <div> 
-  <a href="https://www.instagram.com/gabrielsantosdev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gabrielsantos.jpeg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gsantos58145@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-santos-6ab7b51a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://gabrielsantoshome.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-My Website-%23E4405F?style=for-the-badge&logo=google&logoColor=white" target="_blank"></a>
