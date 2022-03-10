@@ -59,8 +59,8 @@
  
 <tr>
 <td align="center"> 
-<img height=55px src="https://img.icons8.com/color/48/000000/git.png"> 
-<p><b>Git<b></p>
+<img height=55px src="https://img.icons8.com/color/48/000000/dart.png"> 
+<p><b>Dart<b></p>
 </td>
  
 <td align="center">
