@@ -53,8 +53,8 @@
 </td>
  
 <td align="center" width="500px">
-<img height=65px src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png">
-<p><b>Java</b></p>
+<img height=65px src="https://img.icons8.com/color/48/000000/flutter.png">
+<p><b>Flutter</b></p>
 </td>
  
 <tr>
