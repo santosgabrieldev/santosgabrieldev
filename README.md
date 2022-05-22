@@ -1,7 +1,7 @@
 
  # <p align="center"> console.log( "Hello there!" ); <img src="https://raw.githubusercontent.com/parth-27/parth-27/master/Hi.gif" width="30px"></p>
 
-<p align="center"><img width=50% src="https://media2.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif?cid=ecf05e47qxppgplgsjmq0kxhk26viej2twmn9stiw4sf7kse&rid=giphy.gif&ct=g"></p>
+<p align="center"><img width=100% src="https://media2.giphy.com/media/jM4NGpvx6jZmW93hcZ/giphy.gif?cid=ecf05e47qxppgplgsjmq0kxhk26viej2twmn9stiw4sf7kse&rid=giphy.gif&ct=g"></p>
 
 
 <p align="center"><samp>Hi, my name is <a href="https://github.com/santosgabrieldev" target="_blank">Gabriel S</a>. I'm an analysis and systems development college student. In my repositories you'll find projects created using:</samp></p>
